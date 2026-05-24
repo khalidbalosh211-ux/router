@@ -1,4 +1,6 @@
----
+mkdir myApp
+cd myApp
+npm init -y---
 id: build-from-scratch
 title: Build a Project from Scratch
 ---
